@@ -1,0 +1,181 @@
+
+
+
+
+#topbar{
+   height:15px;
+   width:100%;
+   background-color:black;
+ }
+ #container{
+   
+  margin:0px auto;
+ }
+ #header{
+   height:100px;
+   width:100%;
+   background-color:#1c2a3a;
+  
+ }
+ #header img{
+   height:100px;
+   width:auto;
+    
+ }
+#header ul{
+    float:right;
+    display:inline;
+    padding-TOP:15px;
+     
+    
+}
+#header ul li{
+    display:inline;
+  padding :20px;
+   
+ 
+   
+  
+    
+}
+#header ul li a{
+  font-size:1.5rem;
+ color:rgb(195, 204, 211);
+ text-decoration:none;
+  
+}
+
+
+
+#banner{
+  /* height:500px;
+  width:100%; */
+   overflow: hidden;
+   
+  
+   
+}
+/* #banner img{
+  
+  height:500px;
+  width:100%;
+    
+} */
+#content1{
+  height:300px;
+  width:32%;
+  background-color:rgb(109, 101, 138);
+  float:left;
+ color:white;
+}
+#content2{
+  height:300px;
+  width:32%;
+  background-color:rgb(130, 103, 153);
+ float:left;
+ margin-left :2%;
+ color:white;
+}
+#content3{
+  height:300px;
+  width:32%;
+  background-color:rgb(107, 134, 160);
+ float:right;
+ 
+ color:white;
+}
+.leg{
+  text-align:center;
+  font-weight:1000 ;
+  font-size:2rem;
+  font-family:'roboto';
+}
+  .break{
+  text-align:left;
+   display: wrap;
+ font-weight:200;
+ font-size:1rem;
+
+}
+.more{
+  margin-left: 150px  ;
+   
+
+   
+
+  background-color:white;
+ 
+  padding:5px;
+  
+  text-decoration:none;
+}
+ #container p{
+  padding-right: 23rem;
+  text-align: center;
+ }
+
+#bottom1{
+  height:200px;
+  width:66%;
+   
+ clear:both
+  
+  
+  
+}
+ .did{
+  text-align:center;
+  color:black;
+  font-weight:1000;
+   padding-top:10px;
+  font-size:1.5rem;
+ }
+ #bottom1 ul li{
+  color:black;
+  font-size:1rem;
+  
+ text-decoration:none;
+ }
+ #bottom2{
+  height:300px;
+  
+  width:30%;
+  float:right;
+   
+ }
+#bottom2 img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+height: 200px;
+margin-top: -200px;
+ 
+}
+#footer{
+  height:50px;
+  width:100%;
+  background-color:black;
+ 
+  margin-left: -3px;
+}
+#footer ul{
+    padding-TOP:5px;
+     
+}
+#footer ul li{
+display:inline;
+float:left;
+padding: 10px;
+  
+}
+#footer ul li a{
+text-decoration: none; 
+color:antiquewhite;
+}
+p{
+  float:right ;
+  margin-top:-5px;
+  color: whitesmoke;
+ margin-right:-350px;
+} 
+
